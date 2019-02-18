@@ -76,31 +76,12 @@ André Garenne (andre.garenne@u-bordeaux.fr), Team MNEMOSYNE, laboratory IMN
 ## Contact
 
 ***Author :***  
-  Thouvenin Arthur : athouvenin@outlook.fr
-
-***Contributors :***  
   Blais Benjamin : ben.blais@laposte.net  
   Cottais Déborah : d.cottais1@gmail.com  
   De Oliveira Lila : lila.de-oliveira@etu.u-bordeaux.fr  
   Jouan Clément : jouan.clement@hotmail.fr  
+  Thouvenin Arthur : athouvenin@outlook.fr
 
-<a name="related-docs"></a>
-## Related documents
-
-<a name="specifications"></a>
-#### Specifications : 
-[Link to specifications](https://drive.google.com/open?id=1pr_l8iCtvyq6EVjVE3XpWFjlLITfh9DM "Link to the document") 
-(in french)
-
-<a name="report"></a>
-#### Report : 
-[Link to report](https://drive.google.com/open?id=18B4_uuUy6er4mA6klom4j2o6S3sJ_avP "Link to the document")
-(in french)
-
-<a name="defense"></a>
-#### Defense : 
-[Link to defense](https://drive.google.com/open?id=1y15v8rmb-nSddkTqOnmX7ppa-vZr1tq2 "Link to the document")
-(in french)
 
 <a name="usefull-links"></a>
 ## Usefull links
