@@ -66,7 +66,7 @@ If you already have a working installation of any of these packages :
 <a name="source-code"></a>
 ## Source code 
 You can check the latest source swith the command :
-<pre><code>     git clone https://github.com/0AlphaZero0/Projet-Neuro.git</code></pre>
+<pre><code>     git clone https://github.com/Debcottais/NeuronalProject2018</code></pre>
 
 <a name="customer"></a>
 ## Customer 
