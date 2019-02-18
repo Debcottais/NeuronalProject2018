@@ -13,10 +13,6 @@
 - [Source code](#source-code)
 - [Customer](#customer)
 - [Contact](#contact)
-- [Related documents](#related-docs)
-  - [Specifications](#specifications)
-  - [Report](#specification)
-  - [Defense](#defense)
 - [Usefull links](#usefull-links)
 
 <a name="description"></a>
