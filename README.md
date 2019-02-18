@@ -1,5 +1,5 @@
 # NeuronalProject2018
-<h1 align="center">NAC</h1>
+
 <p align="center">Neuron Automatic Classification</p>
 <p align="center">Tool for automatic classification of biological neural signals.</p>
 
